@@ -1,0 +1,24 @@
+# Archivos de estado de Terraform (contienen secretos)
+*.tfstate
+*.tfstate.*
+
+# Plugins de proveedores de Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Exclude all .tfvars files
+*.tfvars
+*.tfvars.json
+
+# Ignore override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Archivos .zip generados para Lambda
+*.zip
