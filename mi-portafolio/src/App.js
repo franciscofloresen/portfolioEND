@@ -136,8 +136,8 @@ const portfolioData = {
     contact: {
         email: "franciscofloresenriquez2001@gmail.com",
         linkedin: "https://www.linkedin.com/in/francisco-flores-89230b25b/",
-        github: "https://github.com/Franss-Flores",
-        instagram: "#",
+        github: "https://github.com/franciscofloresen",
+        instagram: "https://www.instagram.com/franciscofloresenr/?utm_source=ig_web_button_share_sheet",
     },
     skills: [
         { name: 'Languages', items: ['Python', 'Java', 'C', 'JavaScript', 'HTML/CSS'], icon: <Code className="w-8 h-8 text-cyan-400" /> },
@@ -152,13 +152,13 @@ const portfolioData = {
             title: "Dynamic Personal Portfolio",
             description: "This very portfolio. A serverless web application built with React and deployed on AWS Amplify, with backend features like a contact form using API Gateway, Lambda, and SES.",
             tags: ["React", "AWS Amplify", "Lambda", "API Gateway", "Python"],
-            link: "#"
+            link: "https://main.dd5vs7yyk3xwx.amplifyapp.com"
         },
         {
             title: "Snake Game in C and Ripes",
             description: "A classic Snake game implementation in C, designed to run on the Ripes RISC-V simulator. This project demonstrates an understanding of low-level programming.",
             tags: ["C", "RISC-V", "Emulation"],
-            link: "https://github.com/Franss-Flores/Snake-en-C-y-Ripes"
+            link: "https://github.com/franciscofloresen/Ripes-Snake-Game-in-C"
         },
         {
             title: "Next Awesome Project",
