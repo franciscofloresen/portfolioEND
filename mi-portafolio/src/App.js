@@ -168,6 +168,7 @@ const portfolioData = {
         }
     ],
     certifications: [
+        { name: "AWS Certified Cloud Practitioner", issuer: "Amazon Web Services", date:"Oct 2025" },
         { name: "AWS Academy Graduate - Cloud Web Application Builder", issuer: "Amazon Web Services", date:"Sep 2025" },
         { name: "Cypher Fundamentals", issuer: "Neo4j", date:"Mar 2025" },
         { name: "Neo4j Fundamentals", issuer: "Neo4j", date:"Mar 2025" },
